@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://yexehoju.github.io/sitemap/sitemap_index.yexehoju
+Sitemap: https://yexehoju.github.io/iAm/sitemap_index.yexehoju
+Sitemap: https://yexehoju.github.io/XAy/sitemap_index.yexehoju
+Sitemap: https://yexehoju.github.io/IMa/sitemap_index.yexehoju
+Sitemap: https://yexehoju.github.io/xkg/sitemap_index.yexehoju
+Sitemap: https://yexehoju.github.io/EpM/sitemap_index.yexehoju
+Sitemap: https://yexehoju.github.io/Bgr/sitemap_index.yexehoju
+Sitemap: https://yexehoju.github.io/brk/sitemap_index.yexehoju
+Sitemap: https://yexehoju.github.io/hmN/sitemap_index.yexehoju
+Sitemap: https://yexehoju.github.io/dvN/sitemap_index.yexehoju
+Sitemap: https://yexehoju.github.io/cnA/sitemap_index.yexehoju
+Sitemap: https://yexehoju.github.io/KGm/sitemap_index.yexehoju
+Sitemap: https://yexehoju.github.io/dpQ/sitemap_index.yexehoju
+Sitemap: https://yexehoju.github.io/lTK/sitemap_index.yexehoju
+Sitemap: https://yexehoju.github.io/jaI/sitemap_index.yexehoju
+Sitemap: https://yexehoju.github.io/sVb/sitemap_index.yexehoju
+Sitemap: https://yexehoju.github.io/Mek/sitemap_index.yexehoju
+Sitemap: https://yexehoju.github.io/uMv/sitemap_index.yexehoju
+Sitemap: https://yexehoju.github.io/PdJ/sitemap_index.yexehoju
+Sitemap: https://yexehoju.github.io/XFS/sitemap_index.yexehoju
+Sitemap: https://yexehoju.github.io/HqP/sitemap_index.yexehoju
